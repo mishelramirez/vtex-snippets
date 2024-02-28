@@ -104,5 +104,18 @@
     ],
     "description": "Create Route Custom",
     "scope": "json, jsonc"
+  },
+  "Avalability notify": {
+    "prefix": "avn",
+    "body": [
+      " \"availability-notify\": {",
+      "\"title\": \"\"",
+      "  \"props\": {",
+      "    \"available\": true,",
+      "     \"skuId\": \"\"",
+      "  }",
+      "}"
+    ],
+    "description": "Avalability notify"
   }
 }
